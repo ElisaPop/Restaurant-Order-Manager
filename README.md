@@ -28,7 +28,4 @@ The Chef Scene contains a TextArea which Observes the Orders from Restaurant in 
 
 ## Use-case diagram
 
-This is the general architecture of the model. It consists of the model training and application part, tied together with TensorflowLite.
-After training, the model is exported as a tflite file and then added to the application's resources folder, where it can be used locally.
-
 ![image](https://drive.google.com/uc?export=view&id=13Ivo0aNclDonAyLy4lVoxOUIBRHWIZut)
